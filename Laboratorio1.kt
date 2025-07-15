@@ -6,7 +6,7 @@ fun main() {
     println("Por favor, responde las siguientes preguntas con el número de opción de tu respuesta.")
     println("Muy bien, comencemos con la primera pregunta.")
 
-    println("1. ¿Qué es DragonStats?")
+    println("A. ¿Qué es DragonStats?")
     println("1) Un juego de rol")
     println("2) Una herramienta de control de partidos")
     println("3) Una plataforma de análisis de datos")
@@ -23,7 +23,7 @@ fun main() {
         else -> println("Respuesta no válida. Por favor, elige una opción del 1 al 4.")
     }
 
-    println("2. ¿Cuáles son los deportes que se pueden analizar con DragonStats?")
+    println("B. ¿Cuáles son los deportes que se pueden analizar con DragonStats?")
     println("1) Fútbol")
     println("2) Baloncesto")
     println("3) Voleibol")
@@ -40,9 +40,9 @@ fun main() {
         else -> println("Respuesta no válida. Por favor, elige una opción del 1 al 4.")
     }
 
-    println("3. ¿Qué lenguaje de programación se usará para el proyecto?")
+    println("C. ¿Qué lenguaje de programación se usará para el proyecto?")
     println("1) Java")
-    println("2) JavaSc#cript")
+    println("2) JavaScript")
     println("3) Python")
     println("4) Kotlin")
     val respuesta3 = readLine()
@@ -57,7 +57,7 @@ fun main() {
         else -> println("Respuesta no válida. Por favor, elige una opción del 1 al 4.")
     }
 
-    println("4. ¿Qué tipo de desarrollo tendrá DragonStats?")
+    println("D. ¿Qué tipo de desarrollo tendrá DragonStats?")
     println("1) Desarrollo cross-platform")
     println("2) Desarrollo nativo para iOS")
     println("3) Desarrollo nativo para Android")
@@ -74,7 +74,7 @@ fun main() {
         else -> println("Respuesta no válida. Por favor, elige una opción del 1 al 4.")
     }
 
-    println("5. ¿Qué funcionalidades tendrá DragonStats?")
+    println("E. ¿Qué funcionalidades tendrá DragonStats?")
     println("1) Clasificación de la liga")
     println("2) Estadísticas de jugadores")
     println("3) Estadísticas de partidos")
