@@ -1,5 +1,7 @@
 # Laboratorio 1 - Plataformas Móviles
 
+https://github.com/MarceloDetlefsen/Laboratorio1PM.git
+
 Este programa es un sencillo test interactivo en consola sobre nuestro proyecto DragonStats. El usuario responde preguntas relacionadas con el propósito, funcionalidades y tecnologías del proyecto, y al final recibe una puntuación basada en sus respuestas correctas.
 
 ## Ejecución
